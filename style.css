@@ -1,0 +1,11 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.przycisk{
+    background-color: blueviolet;
+    color: black;
+    border: solid 2px rgb(132, 59, 216);
+    margin: 20px;
+    font-size: 25px;
+}
